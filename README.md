@@ -14,7 +14,7 @@ This training allows me to tackle technological challenges with a **holistic per
 ---
 
 ### 💻 This GitHub
-This repository primarily features **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new amitious projects and great ideas ! 
+This repository will primarily contain **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new amitious projects and great ideas !
 
 ---
 
