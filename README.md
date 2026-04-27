@@ -1,6 +1,5 @@
-# Auréva 
-
-**Data Science Student** @ **CPES - Université Paris-Saclay, Institut Polytechnique de Paris & HEC Paris**
+# Auréva
+**Data Science & Health** @ **CPES Student - Université Paris-Saclay, Institut Polytechnique de Paris & HEC Paris**
 
 ---
 
@@ -14,15 +13,28 @@ This training allows me to tackle technological challenges with a **holistic per
 ---
 
 ### 💻 This GitHub
-This repository will primarily contain **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new amitious projects and great ideas !
+This repository will primarily contain **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new ambitious projects and great ideas!
+
+---
+
+### 🚧 Currently Working On : 
+
+#### 📊 Project A – Patient Pathology Analysis *(R)*
+Exploratory analysis of patient data covered by the French national health insurance system (*Assurance Maladie*), across pathologies such as diabetes, cancers, cardiovascular and psychiatric diseases. The dataset includes breakdowns by sex, age group, region, and prevalence — covering 67.4 million beneficiaries.
+
+#### 📊 Project B – French Continuous Employment Survey *(R)*
+Statistical analysis of the *Enquête Emploi en Continu* (INSEE), the French implementation of the EU Labour Force Survey. The goal is to measure employment, unemployment (ILO definition), and activity rates across demographic groups and time periods.
+
+#### ♟️ Othello (Reversi) – Two-Player Game *(Computer Science)*
+Implementation of the classic Othello board game as part of a course on two-player games. The project covers game logic, board representation, and player interaction.
 
 ---
 
 ### 🔍 Areas of Interest
-I can't wait to make a tangible contribution to : 
+I can't wait to make a tangible contribution to:
 - **Artificial Intelligence and Data Science applied to healthcare**:
   - Optimizing healthcare systems through data analysis.
-  - Helping research in medicine through robust and fair models
+  - Helping research in medicine through robust and fair models.
 
 ---
 
