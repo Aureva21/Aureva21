@@ -13,11 +13,11 @@ This training allows me to tackle technological challenges with a **holistic per
 ---
 
 ### 💻 This GitHub
-This repository will primarily contain **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new ambitious projects and great ideas!
+This repository will primarily contain **academic projects** developed as part of my curriculum. My goal is to continue to fill it with new ambitious projects and great ideas !
 
 ---
 
-### 🚧 Currently Working On : 
+### Currently Working On : 
 
 #### 📊 Project A – Patient Pathology Analysis *(R)*
 Exploratory analysis of patient data covered by the French national health insurance system (*Assurance Maladie*), across pathologies such as diabetes, cancers, cardiovascular and psychiatric diseases. The dataset includes breakdowns by sex, age group, region, and prevalence — covering 67.4 million beneficiaries.
@@ -31,7 +31,7 @@ Implementation of the classic Othello board game as part of a course on two-play
 ---
 
 ### 🔍 Areas of Interest
-I can't wait to make a tangible contribution to:
+I can't wait to make a tangible contribution to :
 - **Artificial Intelligence and Data Science applied to healthcare**:
   - Optimizing healthcare systems through data analysis.
   - Helping research in medicine through robust and fair models.
