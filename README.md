@@ -25,7 +25,7 @@ Exploratory analysis of patient data covered by the French national health insur
 #### 📊 Project B – French Continuous Employment Survey *(R)*
 Statistical analysis of the *Enquête Emploi en Continu* (INSEE), the French implementation of the EU Labour Force Survey. The goal is to measure employment, unemployment (ILO definition), and activity rates across demographic groups and time periods.
 
-#### ♟️ Othello (Reversi) – Two-Player Game *(Computer Science)*
+#### ♟️ Othello (Reversi) – Two-Player Game *(Python)*
 Implementation of the classic Othello board game as part of a course on two-player games. The project covers game logic, board representation, and player interaction.
 
 ---
