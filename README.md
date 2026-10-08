@@ -1,5 +1,12 @@
 # Auréva
-**Data Science & Health** @ **CPES Student - Université Paris-Saclay, Institut Polytechnique de Paris & HEC Paris**
+**Data Science & Health** 3rd-year student @ **CPES Student - Université Paris-Saclay, Institut Polytechnique de Paris & HEC Paris**
+
+---
+
+### 🔬 What I'm looking for this year
+I'm looking to get involved in **research projects in bioinformatics, computational biology and data science applied to biological data**. I'm particularly motivated to build skills in **deep learning and computer vision**, and to apply them to biological questions.
+
+I'm a third-year student applying to master's programmes in these fields, and I'm available a few hours per week. If you work in this area and have a small, well-defined project where an extra pair of hands could help, I'd be glad to hear from you.
 
 ---
 
@@ -10,6 +17,8 @@ I am currently enrolled in the **Multidisciplinary Undergraduate Cycle (CPES)**,
 
 This training allows me to tackle technological challenges with a **holistic perspective**, integrating technical, ethical, and societal dimensions.
 
+So far I have worked on **health data**: NLP and machine learning on medical text (internships in health data science), and statistical analysis of public health datasets. I now want to move toward **biological data**.
+
 ---
 
 ### 💻 This GitHub
@@ -17,38 +26,29 @@ This repository will primarily contain **academic projects** developed as part o
 
 ---
 
-### Currently Working On : 
-
-#### 📊 Project A – Patient Pathology Analysis *(R)*
-Exploratory analysis of patient data covered by the French national health insurance system (*Assurance Maladie*), across pathologies such as diabetes, cancers, cardiovascular and psychiatric diseases. The dataset includes breakdowns by sex, age group, region, and prevalence — covering 67.4 million beneficiaries.
-
-#### 📊 Project B – French Continuous Employment Survey *(R)*
-Statistical analysis of the *Enquête Emploi en Continu* (INSEE), the French implementation of the EU Labour Force Survey. The goal is to measure employment, unemployment (ILO definition), and activity rates across demographic groups and time periods.
-
-#### ♟️ Othello (Reversi) – Two-Player Game *(Python)*
-Implementation of the classic Othello board game as part of a course on two-player games. The project covers game logic, board representation, and player interaction.
-
----
-
-### 🔍 Areas of Interest
+### 🎯 Areas of Interest
 I can't wait to make a tangible contribution to :
 - **Artificial Intelligence and Data Science applied to healthcare**:
   - Optimizing healthcare systems through data analysis.
-  - Helping research in medicine through robust and fair models.
+  - Helping research in medicine through robust and fair, and interpretable models.
 
 ---
 
 ### 🛠️ Technical Skills
-- **Languages**: Python, SQL *(in progress)*, R *(in progress)*
-- **Tools & Libraries**: Pandas, NumPy, Scikit-learn, Gensim, SpaCy, Git
+- **Languages**: Python (advanced), SQL (intermediate), R (basics - *in progress*)
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, PyTorch, SpaCy, Gensim
+- **Tools** : Git, Grafana, RStudio
 - **Fields**: Machine Learning, Data Visualization, Statistics, NLP *(Natural Language Processing)*
 
 ---
 
-### 🌟 Soft Skills
-- **Design Thinking**: User-centered approach to designing innovative solutions.
-- **Teamwork**: Experience in managing collaborative and multidisciplinary projects.
+### 🤝 Beyond code
+Teamwork on multidisciplinary projects (health, innovation, entrepreneurship), design thinking, and working in English in international settings (EUGLOH workshops).
+
 <!--
+
+
+
 **Aureva21/Aureva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
